@@ -1,3 +1,14 @@
+# Todo Application 
+
+A To-do list application built with React JS
+and Bootstrap with a dynamic CRUD model which
+is a fully responsive, single-page application
+that you can use for daily use. Tasks are saved
+locally, and motivational quotes are displayed 
+with each refresh.
+
+https://todo-list-app-12.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
